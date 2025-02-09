@@ -1,16 +1,38 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Course-management
-=======
-# React + Vite
+# 🎓 Course Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React + Vite** based web application for managing courses, enrollments, and student dashboards.  
+It provides an intuitive interface for users to browse courses, enroll, and track progress.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> d391965 (complete)
-=======
-# course-management-app
->>>>>>> ff9a007decce9b833d97a1c5adef1c4e444f5395
+## 🚀 Features
+- 📚 **Course Listing** - View available courses  
+- ✅ **Enrollments** - Students can enroll in courses  
+- 📖 **Course Details** - View detailed information about each course  
+- 🎯 **Progress Tracking** - Students can track their learning progress  
+- 🛠 **Student Dashboard** - Personalized learning dashboard  
+
+
+---
+
+## 🛠 Tech Stack
+- ⚛ **React.js** - Frontend  
+- ⚡ **Vite** - Development & Build Tool  
+- 🎨 **Bootstrap** - Styling  
+- 🌍 **React Router** - Navigation  
+- 🗂 **Redux** - State Management  
+
+---
+
+## 🏗 Project Setup & Installation
+
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/saurabh-singh-tech89/course-management-app.git
+
+###**2️⃣ Install Dependencies**
+cd course-management-app
+npm install
+
+###**3️⃣ Start the Project**
+npm run dev
