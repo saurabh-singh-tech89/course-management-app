@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "image": "/images/img1.png",
+    "name": "React Basic for Beginners",
+    "instructor": "John Doe",
+    "description": "Learn the basics of React.js including components, state, and props.",
+    "enrollmentStatus": "Open",
+    "duration": "4 weeks",
+    "schedule": "Mon & Wed, 6-8 PM",
+    "location": "Online",
+    "prerequisites": "Basic JavaScript knowledge",
+    "syllabus": [
+      "Introduction to React",
+      "JSX and Components",
+      "State and Props",
+      "Handling Events"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/images/img2.jpg",
+    "name": "Advanced JavaScript",
+    "instructor": "Jane Smith",
+    "description": "Deep dive into JavaScript, covering advanced concepts like closures, promises, and async/await.",
+    "enrollmentStatus": "Closed",
+    "duration": "6 weeks",
+    "schedule": "Tue & Thu, 7-9 PM",
+    "location": "Online",
+    "prerequisites": "Intermediate JavaScript knowledge",
+    "syllabus": [
+      "Advanced Functions",
+      "Closures and Scope",
+      "Asynchronous JavaScript",
+      "Modules and Tooling"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/images/img3.png",
+    "name": "Full-Stack Web Development",
+    "instructor": "Alice Johnson",
+    "description": "Master both frontend and backend development using modern technologies.",
+    "enrollmentStatus": "Open",
+    "duration": "12 weeks",
+    "schedule": "Weekends, 10 AM - 4 PM",
+    "location": "Offline - NYC",
+    "prerequisites": "Basic HTML, CSS, and JavaScript",
+    "syllabus": [
+      "Frontend with React",
+      "Backend with Node.js",
+      "Database Management",
+      "Deployment and DevOps"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/images/img4.jpg",
+    "name": "Python for Data Science",
+    "instructor": "Bob Brown",
+    "description": "Learn Python and its libraries for data analysis and machine learning.",
+    "enrollmentStatus": "In Progress",
+    "duration": "8 weeks",
+    "schedule": "Mon, Wed & Fri, 5-7 PM",
+    "location": "Online",
+    "prerequisites": "Basic Python knowledge",
+    "syllabus": [
+      "Pandas and NumPy",
+      "Data Visualization",
+      "Machine Learning Basics",
+      "Deep Learning with TensorFlow"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/images/img5.jpg",
+    "name": "Cybersecurity Fundamentals",
+    "instructor": "Charlie Davis",
+    "description": "Understand cybersecurity concepts and protect systems from attacks.",
+    "enrollmentStatus": "Open",
+    "duration": "10 weeks",
+    "schedule": "Tue & Thu, 6-9 PM",
+    "location": "Online",
+    "prerequisites": "Networking Basics",
+    "syllabus": [
+      "Network Security",
+      "Ethical Hacking",
+      "Cryptography",
+      "Incident Response"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/images/img6.jpg",
+    "name": "UI/UX Design Bootcamp",
+    "instructor": "Diana Evans",
+    "description": "Learn how to design user-friendly and engaging digital experiences.",
+    "enrollmentStatus": "Open",
+    "duration": "6 weeks",
+    "schedule": "Mon & Thu, 7-9 PM",
+    "location": "Online",
+    "prerequisites": "No prior experience required",
+    "syllabus": [
+      "User Research",
+      "Wireframing and Prototyping",
+      "Design Systems",
+      "Usability Testing"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/images/img7.jpg",
+    "name": "Blockchain and Cryptocurrency",
+    "instructor": "Ethan Foster",
+    "description": "Understand how blockchain works and its impact on finance and tech.",
+    "enrollmentStatus": "In Progress",
+    "duration": "8 weeks",
+    "schedule": "Wed & Sat, 5-8 PM",
+    "location": "Online",
+    "prerequisites": "Basic understanding of cryptography",
+    "syllabus": [
+      "Blockchain Basics",
+      "Smart Contracts",
+      "Decentralized Finance",
+      "NFTs and Web3"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/images/img8.jpg",
+    "name": "Mobile App Development with Flutter",
+    "instructor": "Fiona Green",
+    "description": "Learn how to build cross-platform mobile apps using Flutter.",
+    "enrollmentStatus": "Closed",
+    "duration": "10 weeks",
+    "schedule": "Weekends, 11 AM - 3 PM",
+    "location": "Offline - LA",
+    "prerequisites": "Basic programming knowledge",
+    "syllabus": [
+      "Dart Programming",
+      "Flutter Widgets",
+      "State Management",
+      "Publishing Apps"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "/images/img9.jpg",
+    "name": "Machine Learning with Python",
+    "instructor": "George Harris",
+    "description": "Hands-on course on implementing machine learning models using Python.",
+    "enrollmentStatus": "Open",
+    "duration": "12 weeks",
+    "schedule": "Tue & Fri, 6-8 PM",
+    "location": "Online",
+    "prerequisites": "Python and statistics basics",
+    "syllabus": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Model Evaluation",
+      "Neural Networks"
+    ]
+  },
+  {
+    "id": 10,
+    "image": "/images/img10.jpg",
+    "name": "Cloud Computing with AWS",
+    "instructor": "Helen Jackson",
+    "description": "Learn about cloud services and deploy applications using AWS.",
+    "enrollmentStatus": "In Progress",
+    "duration": "10 weeks",
+    "schedule": "Mon & Wed, 7-9 PM",
+    "location": "Online",
+    "prerequisites": "Networking and Linux basics",
+    "syllabus": [
+      "AWS Fundamentals",
+      "Compute and Storage",
+      "Networking in Cloud",
+      "Security and Compliance"
+    ]
+  }
+]
